@@ -36,7 +36,7 @@ def vacant():
   for j in [0,1,2]:
    if pos_init[i][j]==' ':
     cont=True
-	break
+    break
  if cont==True:
    return True
  else:
@@ -70,7 +70,7 @@ def game():
   comp_move()
   mover()
   stat()
-  if !win():
+  if (!win()):
    print ("I won :)")
 
 game()
