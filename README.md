@@ -1,2 +1,2 @@
 # special-eureka
-Working on BlackJack in python3 or c++
+Working on TIC TAC TOE in python3 or c++
